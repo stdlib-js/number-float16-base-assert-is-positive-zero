@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float16-base-assert-is-positive-zero",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test if a half-precision floating-point number is positive zero.",
   "license": "Apache-2.0",
   "author": {
@@ -87,7 +87,6 @@
     "type",
     "check"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
