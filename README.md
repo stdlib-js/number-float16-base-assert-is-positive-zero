@@ -155,8 +155,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/number-float16-base-assert-is-positive-zero.svg
 [npm-url]: https://npmjs.org/package/@stdlib/number-float16-base-assert-is-positive-zero
 
-[test-image]: https://github.com/stdlib-js/number-float16-base-assert-is-positive-zero/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/number-float16-base-assert-is-positive-zero/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/number-float16-base-assert-is-positive-zero/actions/workflows/test.yml/badge.svg?branch=v0.1.1
+[test-url]: https://github.com/stdlib-js/number-float16-base-assert-is-positive-zero/actions/workflows/test.yml?query=branch:v0.1.1
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/number-float16-base-assert-is-positive-zero/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/number-float16-base-assert-is-positive-zero?branch=main

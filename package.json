@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float16-base-assert-is-positive-zero",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test if a half-precision floating-point number is positive zero.",
   "license": "Apache-2.0",
   "author": {
@@ -40,11 +40,11 @@
     "@stdlib/constants-float16-pinf": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-map": "github:stdlib-js/array-base-map#main",
+    "@stdlib/array-base-map": "^0.1.0",
     "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/number-float64-base-to-float16": "github:stdlib-js/number-float64-base-to-float16#main",
+    "@stdlib/number-float64-base-to-float16": "^0.1.1",
     "@stdlib/random-array-uniform": "^0.2.1",
-    "@stdlib/utils-nary-function": "^0.2.2",
+    "@stdlib/utils-nary-function": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
